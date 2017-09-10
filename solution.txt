@@ -1,0 +1,21 @@
+Hello :) :)
+
+The main error of calculation in the report was due to the fact that total revenue was divided by the number of orders. This does is wrong since some transactions contain multiple item purchases.
+
+Therefore the error is:
+15725640 / 5000 = 3145.13
+
+
+The average value order (AOV) is defined as the total revenue divided by the number of orders (purchases of the items). Therefore, a more accurate model
+
+
+15725640 / 43936 = 357.921522214
+
+which seems more reasonable
+
+Thank you for your time and consideration
+
+Sincerely,
+
+Elias Al Homsi
+elias.alhomsi@mail.mcgill.ca
