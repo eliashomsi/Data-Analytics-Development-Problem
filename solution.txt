@@ -1,17 +1,15 @@
 Hello :) :)
 
-The main error of calculation in the report was due to the fact that total revenue was divided by the number of orders. This does is wrong since some transactions contain multiple item purchases.
+AOV the  average order value is caluclated as the total revenue divided by the #orders. However, after inspetion of the data, I noticed that there 
+are two types of customers. Businesses usally requesting in thousands and normal clients requesting in under a dozen.
 
-Therefore the error is:
-15725640 / 5000 = 3145.13
-
-
-The average value order (AOV) is defined as the total revenue divided by the number of orders (purchases of the items). Therefore, a more accurate model
+After splitting the data into B2B and B2C, I have calculated the AOV for both and got the following results:
 
 
-15725640 / 43936 = 357.921522214
+('AOV of B2B is ', 704000.0)
+('AOV of B2C is ', 754.0919125025085)
 
-which seems more reasonable
+Seems more reasonable for B2C now.
 
 Thank you for your time and consideration
 
