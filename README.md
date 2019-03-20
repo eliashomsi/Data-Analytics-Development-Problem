@@ -1,4 +1,4 @@
-# Data-Analytics-Development-Problem
+# Data-Analytics-Development-Shopify-Challenge
 Data Analytics Development Problem of shopify
 
 # problem statement
